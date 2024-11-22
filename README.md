@@ -1,5 +1,3 @@
-# Numberplate-Predict
-
 # Number Plate Prediction  
 
 ## 📜 Project Description  
